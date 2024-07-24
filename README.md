@@ -1,4 +1,6 @@
-### Hi there. I'm a 3rd year Electrical Engineering student at Bilkent University. 
+### Hi there. I'm a 4th year Electrical Engineering student at Bilkent University. 
+I'm pursuing Data Science and Feature Engineering.
+
 
 <!--
 **Utkucar/Utkucar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
